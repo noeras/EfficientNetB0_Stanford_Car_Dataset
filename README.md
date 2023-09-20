@@ -12,3 +12,5 @@ I unzipped the dataset myself before starting to code. If you want to have a try
 
 URL of the dataset I used:
 https://www.kaggle.com/datasets/jutrera/stanford-car-dataset-by-classes-folder
+
+I used Python 3.10.13 and TensorFlow 2.11.0
